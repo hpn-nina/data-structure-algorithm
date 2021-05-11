@@ -1,0 +1,4 @@
+﻿  Class02_02_195202008_Sort_Search.cpp
+D:\HOC_ONLINE_UIT\CTDL&GT\ThucHanh\Class02_02_195202008_Sort_Search\Class02_02_195202008_Sort_Search\Class02_02_195202008_Sort_Search.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\HOC_ONLINE_UIT\CTDL&GT\ThucHanh\Class02_02_195202008_Sort_Search\Class02_02_195202008_Sort_Search\Class02_02_195202008_Sort_Search.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Class02_02_195202008_Sort_Search.vcxproj -> D:\HOC_ONLINE_UIT\CTDL&GT\ThucHanh\Class02_02_195202008_Sort_Search\Debug\Class02_02_195202008_Sort_Search.exe
